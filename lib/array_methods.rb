@@ -13,7 +13,8 @@ find_element_index([1,2,3,4],4)
 
 
 def find_max_value(array)
- puts array.max 
+return array.max
+
 end
 
 find_max_value([1,2,1,3,4,3,5,4,3,2,1])
